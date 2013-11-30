@@ -1,4 +1,7 @@
 HelloWorld
 ==========
 
-My first repo on Github
+My first README on Github
+
+HelloWorld in C
+==========
