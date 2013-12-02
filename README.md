@@ -23,7 +23,7 @@ HelloWorld in C
 
 *[consult guoyunsky](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)<br />
 
-[![image]](http://www.github.com/)
-[image]: https://0.gravatar.com/avatar/fc699955304c24141bc7301f8cdb10ff?d=https%3A%2F%2Fidenticons.github.com%2Ff5025cb5bf510124e89608e3bcb74b47.png&r=x&s=440 "github"
+[![image]](https://github.com/Weizz)
+[image]: https://0.gravatar.com/avatar/85af2d0b1a1018481528e3d2b83fbdd8?d=https%3A%2F%2Fidenticons.github.com%2F4f75536ef146201dc4a7d3c3917b4d4c.png&r=x&s=140 "Weizz"
 
 ==========
