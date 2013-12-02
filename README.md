@@ -12,7 +12,7 @@ HelloWorld in C
 
 ```
     void main(void){
-       `printf("hello world!");`
+       printf("hello world!");
        return;
     }
 ```
